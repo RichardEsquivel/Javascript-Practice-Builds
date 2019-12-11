@@ -6,4 +6,5 @@ let val;
 val = num1 + num2;
 val = num1 * num2;
 val = num1 - num2;
+val = num1 % num2;
 console.log(val);
